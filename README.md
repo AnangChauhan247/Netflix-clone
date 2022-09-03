@@ -8,6 +8,8 @@
 
 ![2](https://user-images.githubusercontent.com/97803824/188257608-baf63c83-b1bd-4a9c-875e-089da8e6cf93.png)
 
+Project Link: https://netflix-clone-4977a.web.app/
+
 
 # Getting Started with Create React App
 
